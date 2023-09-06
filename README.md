@@ -1,0 +1,1 @@
+A simple template created for python project.
