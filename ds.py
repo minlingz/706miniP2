@@ -15,3 +15,4 @@ print(data[["gdppcap08", "polityIV"]].describe())
 # scatter plot of "gdpcap08" as x & "polityIV" as y
 data.plot.scatter(x="gdppcap08", y="polityIV", alpha=0.5)
 plt.show()
+plt.savefig('plot.png')
