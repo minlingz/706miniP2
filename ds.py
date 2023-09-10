@@ -1,5 +1,7 @@
-"""Python script to read csv file, generate statistics summary and plot interested columns """
-import numpy as np
+"""Python script to read csv file, 
+    generate statistics summary 
+        and plot interested columns """
+#import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
