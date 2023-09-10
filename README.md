@@ -8,3 +8,7 @@
 ## Deliverables
 1. Python script: "ds.py"
 2. Generated summary report (PDF or markdown): "summary_report.ipynb" 
+
+## Features design
+1. Dataset to read : "world-small.csv"
+2. By running "ds.py" script, the summary statistics is printed out, and the data visualization is saved as "plot.png".
